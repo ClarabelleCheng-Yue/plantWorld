@@ -89,6 +89,8 @@
 .search-result-tile-snippet {
     font-size: 1.1rem;
     width: 90%;
+    height: 3.8rem;
+    overflow: hidden;
 }
 
 .search-details-container {
