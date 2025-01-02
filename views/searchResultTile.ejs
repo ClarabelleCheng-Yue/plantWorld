@@ -1,0 +1,17 @@
+<li class="search-result-tile">
+    <form 
+        action="/details" 
+        method="get"
+        onclick="this.action = `${this.action}/${this.tileId.value}/${this.fqId.value}`; this.submit();"
+    >
+        <label for="<%= fqId %>">
+            <%= name %>
+        </label>
+        <input type="submit" name="fqId" value="<%= fqId %>" id="<%= fqId %>">
+        <input type="submit" name="tileId" value="<%= tileId %>" id="<%= tileId %>">
+
+        <p class="search-result-tile-snippet">
+            <%- snippet %>
+        </p>
+    </form>
+</li>

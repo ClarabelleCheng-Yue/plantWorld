@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Plant World</title>
+  <link rel="stylesheet" href="./styles/search.css">
+  <link rel="stylesheet" href="./styles/main.css">
+</head>
+
+<body>
+
+  <% if (locals.errorMessage) { %>
+    <p id="error-message">
+      <%= errorMessage %>
+    </p>
+  <% } %>
+
+  <p id="warning-message"></p>
+  
+  <%- include("search.ejs") %>
+  <%- include("worldMap.ejs", details) %>
+</body>
+<script>
+  const toggleDisplay = (className) => {
+    const el = document.querySelector(className);
+    const classNames = el.className;
+    const btn = el.querySelector("button");
+
+    if (classNames.indexOf("hide") > -1) {
+      el.classList.remove("hide");
+      btn.innerText = "Hide";
+    } else {
+      el.classList.add("hide");
+      btn.innerText = "Show";
+    }
+  }
+</script>
+
+</html>

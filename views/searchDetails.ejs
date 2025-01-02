@@ -1,0 +1,19 @@
+<section class="search-details-container">
+    <button class="btn-details-display" onclick="toggleDisplay(`.search-details-container`)">Hide</button>
+    <h1><%= scientificName %></h1>
+    <div class="locations-container">
+        <h2>Distribution</h2>
+        <p>
+            <%= distribution.length > 0 ? distribution.map(d => d ? d.locationName : "").join(", ") : "Distribution nformation not provided." %>
+        </p>
+    </div>
+    <div class="images-container">
+        <% if (!!locals.images && locals.images.length > 0) { %>
+            <% images.forEach(function(image){ %>
+                <img src="<%=`https:${image.fullsize}`%>" >
+            <% }); %>
+        <% } else { %>
+            <span>No images provided</span>
+        <% } %>
+    </div>
+</section>

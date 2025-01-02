@@ -1,0 +1,214 @@
+tdwgCode,WGSRPDName,countryCode,countryName
+SVA,Svalbard,NO,Norway
+CZE,Czechoslovakia,CZ,Czechia
+FOR,Faroe Islands,DK,Denmark
+GRB,Great Britain,GB,United Kingdom
+BAL,Baleares,ES,Spain
+COR,Corse,FR,France
+SAR,Sardegna,IT,Italy
+KRI,Kriti,GR,Greece
+SIC,Sicilia,IT,Italy
+YUG,Yugoslavia,RS,Serbia
+YUG,Yugoslavia,ME,Montenegro
+BLT,Baltic States,EE,Estonia
+BLT,Baltic States,LV,Latvia
+BLT,Baltic States,LT,Lithuania
+KRY,Krym,UA,Ukraine
+RUC,Central European Russia,RU,Russia
+RUE,East European Russia,RU,Russia
+RUN,North European Russia,RU,Russia
+RUS,South European Russia,RU,Russia
+RUW,Northwest European Russia,RU,Russia
+AZO,Azores,PT,Portugal
+CNY,Canary Is.,ES,Spain
+MDR,Madeira,PT,Portugal
+SEL,Selvagens,PT,Portugal
+BKN,Burkina,BF,Burkina Faso
+IVO,Ivory Coast,CI,"Côte d'Ivoire
+"
+CAB,Cabinda,AO,Angola
+ZAI,Zaire,ZR,Zaire
+SOC,Socotra,YE,Yemen
+CON,Congo,CG,Republic of the Congo
+TAN,Tanzania,TZ,Tanzania
+CPP,Cape Provinces,ZA,South Africa
+CPV,Caprivi Strip,NA,Namibia
+NAT,KwaZulu-Natal,ZA,South Africa
+OFS,Free State,ZA,South Africa
+TVL,Northern Provinces,ZA,South Africa
+ASC,Ascension,GB,United Kingdom
+STH,St.Helena,GB,United Kingdom
+ALD,Aldabra,SC,Seychelles
+CGS,Chagos Archipelago,MU,Mauritius
+REU,Réunion,RE,Réunion
+ROD,Rodrigues,MU,Mauritius
+ALT,Altay,RU,Russia
+BRY,Buryatiya,RU,Russia
+CTA,Chita,RU,Russia
+IRK,Irkutsk,RU,Russia
+KRA,Krasnoyarsk,RU,Russia
+TVA,Tuva,RU,Russia
+WSB,West Siberia,RU,Russia
+YAK,Yakutskiya,RU,Russia
+AMU,Amur,RU,Russia
+KAM,Kamchatka,RU,Russia
+KHA,Khabarovsk,RU,Russia
+KUR,Kuril Is.,RU,Russia
+MAG,Magadan,RU,Russia
+PRM,Primorye,RU,Russia
+SAK,Sakhalin,RU,Russia
+KGZ,Kirgizistan,KG,Kyrgyzstan
+EAI,East Aegean Is.,GR,Greece
+IRN,Iran,IR,Iran
+NCS,North Caucasus,RU,Russia
+TCS,Transcaucasus,AM,Armenia
+TCS,Transcaucasus,AZ,Azerbaijan
+TCS,Transcaucasus,GE,Georgia
+TZK,Tadzhikistan,TJ,Tadzhikistan
+PAL,Palestine,PS,Palestine
+SIN,Sinai,EG,Egypt
+GST,Gulf States,AE,United Arab Emrites
+CHH,Hainan,CN,China
+CHM,Manchuria,CN,China
+CHQ,Qinghai,CN,China
+CHT,Tibet,CN,China
+CHX,Xinjiang,CN,China
+KOR,Korea,KR,Korea
+KZN,Kazan-retto,JP,Japan
+NNS,Nansei-shoto,JP,Japan
+OGA,Ogasawara-shoto,JP,Japan
+TAI,Taiwan,TW,Taiwan
+ASS,Assam,IN,India
+EHM,East Himalaya,NP,Nepal
+EHM,East Himalaya,BT,Bhutan
+EHM,East Himalaya,IN,India
+LDV,Laccadive Is.,IN,India
+DSV,Desventurados Is.,CL,Chile
+JNF,Juan Fern�ndez Is.,CL,Chile
+ASP,Amsterdam-St.Paul Is.,TF,French Southern and Antarctic Lands
+BOU,Bouvet I.,NO,Norway
+CRZ,Crozet Is.,TF,French Southern and Antarctic Lands
+FAL,Falkland Is.,GB,United Kingdom
+HMD,Heard-McDonald Is.,AU,Australia
+KEG,Kerguelen,TF,French Southern and Antarctic Lands
+MAQ,Macquarie Is.,AU,Australia
+MPE,Marion-Prince Edward Is.,CA-PE,Prince Edward Island
+SSA,South Sandwich Is.,GS,South Georgia and the South Sandwich Islands
+TDC,Tristan da Cunha,SH,Tristan da Cunha
+WHM,West Himalaya,IN,India
+WHM,West Himalaya,PK,Pakistan
+AND,Andaman Is.,IN,India
+VIE,Vietnam,VN,Vietnam
+BOR,Borneo,MY,Malaysia
+CKI,Cocos (Keeling) Is.,AU,Australia
+JAW,Jawa,ID,Indonesia
+LSI,Lesser Sunda Is.,ID,Indonesia
+,,,
+MOL,Maluku,ID-MA,Indonesia-Maluku
+WIN,Windward Is.,DM,Dominica
+TCI,Turks-Caicos Is.,TC,Turks and Caicos Islands
+TRT,Trinidad-Tobago,TT,Trinidad-Tobago
+VNA,Venezuelan Antilles,VE,Venezuela
+WIN,Windward Is.,GE,Grenada
+LAO,Laos,LA,Laos
+VEN,Venezuela,VE,Venezuela
+NCB,Nicobar Is.,IN,India
+GAL,Gal�pagos,EC,Ecuador
+SUL,Sulawesi,ID,Indonesia
+SUM,Sumatera,ID,Indonesia
+XMS,Christmas I.,CX,Christmas Island
+BIS,Bismarck Archipelago,PG,Papua New Guinea
+SOL,Solomon Is.,SB,Solomon Islands
+NFK,Norfolk Is.,NF,Norfolk Island
+NSW,New South Wales,"AU-NSW
+",Australia
+NTA,Northern Territory,AU-NT,Australia
+QLD,Queensland,AU-QLD,Australia
+TAS,Tasmania,AU-TAS,Australia
+VIC,Victoria,AU-VIC,Australia
+ATP,Antipodean Is.,NZ,New Zealand
+CTM,Chatham Is.,NZ,New Zealand
+KER,Kermadec Is.,NZ,New Zealand
+SCZ,Santa Cruz Is.,US,United States
+GIL,Gilbert Is.,KI,Kiribati
+HBI,Howland-Baker Is.,UM,United States Minor Outlying Islands
+PHX,Phoenix Is.,KI,Kiribati
+WAL,Wallis-Futuna Is.,WF,Wallis-Futuna Island
+COO,Cook Is.,CK,Cook Islands
+EAS,Easter Is.,CL,Chile
+LIN,Line Is.,KI,Kiribati
+MRQ,Marquesas,PF,French Polynesia
+SCI,Society Is.,PF,French Polynesia
+TUA,Tuamotu,PF,French Polynesia
+TUB,Tubuai Is.,PF,French Polynesia
+CRL,Caroline Is.,PG,Papua New Guinea
+MCS,Marcus I.,JP,Japan
+MRN,Marianas,GU,Guam
+MRS,Marshall Is.,MH,Marshall Islands
+WAK,Wake I.,UM,United States Minor Outlying Islands
+HAW,Hawaii,US,United States
+ALU,Aleutian Is.,US,United States
+ASK,Alaska,US,United States
+NUN,Nunavut,CA-NU,Canada
+NWT,Northwest Territories,CA-NT,Canada
+YUK,Yukon,CA-YT,Canada
+ABT,Alberta,CA-AB,Canada
+BRC,British Columbia,CA-BC,Canada
+MAN,Manitoba,CA-MB,Canada
+SAS,Saskatchewan,CA-SK,Canada
+LAB,Labrador,CA-NL,Canada
+NBR,New Brunswick,CA-NB,Canada
+NFL,Newfoundland,CA-NL,Canada
+NSC,Nova Scotia,CA-NS,Canada
+ONT,Ontario,CA-ON,Canada
+PEI,Prince Edward I.,CA-PE,Prince Edward Island
+QUE,Qu�bec,CA-QC,Canada
+COL,Colorado,US,United States
+IDA,Idaho,US,United States
+MNT,Montana,US,United States
+ORE,Oregon,US-OR,United States
+WAS,Washington,US-WA,United States
+WYO,Wyoming,US,United States
+ILL,Illinois,US,United States
+IOW,Iowa,US,United States
+KAN,Kansas,US,United States
+MIN,Minnesota,US,United States
+MSO,Missouri,US,United States
+NDA,North Dakota,US,United States
+NEB,Nebraska,US,United States
+OKL,Oklahoma,US,United States
+SDA,South Dakota,US,United States
+WIS,Wisconsin,US,United States
+CNT,Connecticut,US,United States
+MAI,Maine,US,United States
+MAS,Massachusetts,US-MA,United States
+MIC,Michigan,US,United States
+NWH,New Hampshire,US,United States
+NWY,New York,US-NY,United States
+OHI,Ohio,US,United States
+PEN,Pennsylvania,US,United States
+RHO,Rhode I.,US,United States
+VER,Vermont,US,United States
+WVA,West Virginia,US,United States
+ARI,Arizona,US,United States
+CAL,California,US,United States
+NEV,Nevada,US,United States
+UTA,Utah,US,United States
+TEX,Texas,US-TX,United States
+ALA,Alabama,US,United States
+ARK,Arkansas,US,United States
+DEL,Delaware,US,United States
+FLA,Florida,US,United States
+KTY,Kentucky,US,United States
+LOU,Louisiana,US,United States
+MRY,Maryland,US,United States
+MSI,Mississippi,US,United States
+NCA,North Carolina,US,United States
+SCA,South Carolina,US,United States
+TEN,Tennessee,US,United States
+VRG,Virginia,US-VA,United States
+WDC,District of Columbia,US-DC,United States
+MXI,Mexican Pacific Is.,MX,Mexico
+CPI,Central American Pacific Is.,CR,Costa Rica
+CPI,Central American Pacific Is.,PA,Panama
+CAY,Cayman Is.,KY,Cayman Islands

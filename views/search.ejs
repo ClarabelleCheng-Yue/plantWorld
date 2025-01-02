@@ -1,0 +1,19 @@
+<section class="search-container" >
+  <button class="btn-search-container-display" onclick="toggleDisplay(`.search-container`)">Hide</button>
+  <form class="search-form" action="/search" method="GET" onsubmit="this.action = `${this.action}?query=${this.search_query.value}`; this.submit();">
+    <input type="text" name="search_query" placeholder="Search a plant">
+    <input type="submit" value="OK">
+  </form>
+
+  <% if (locals.results && locals.results.length > 0) { %>
+    <ul class="result-list">
+      <% results.map((aResult, tileId) => { %>
+        <%- include("searchResultTile.ejs", { tileId, ...aResult}) %>
+      <% }) %>
+    </ul>
+  <% } %>
+</section>
+
+<% if (!!Object.keys(locals.details).length) { %>
+  <%- include("searchDetails.ejs", details ) %>
+<% } %>
